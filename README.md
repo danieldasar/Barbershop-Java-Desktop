@@ -1,5 +1,4 @@
 # Barbershop-Java-Desktop
-
 Sistem informasi kasir untuk barbershop berbasis desktop.
 
 Name : Barbershop app
